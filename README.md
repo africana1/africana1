@@ -6,13 +6,13 @@ Backend Developer
 
 I am a results-driven backend developer with a passion for crafting robust and scalable solutions that power the digital world. I specialize in designing and implementing efficient server-side architectures, developing RESTful APIs, and optimizing database performance. My experience & expertise enables me to tackle complex challenges and deliver high-quality software solutions. Constantly seeking opportunities for learning and growth, I stay updated on emerging technologies and industry best practices to ensure that I am always at the forefront of backend development. With a meticulous attention to detail and a commitment to excellence, I am dedicated to driving innovation and exceeding expectations in every project I undertake.
 
-* 🌍  I'm based in Abuja Nigeria
+* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [pro-africana](http://africana.netlify.app)
 * ✉️  You can contact me at [z.anthony@yahoo.com](mailto:z.anthony@yahoo.com)
 * 🚀  I'm currently working on [Prolean Cooperative Software](http://coop-mgmt-12639b2.netlify.app/)
 * 🧠  I'm learning NestJS, Data Structures, Distributed Systems, Data Pipelines & Analysis
 * 🤝  I'm open to collaborating on Systems Design, Distributed Systems & Microservices
-* ⚡  When not coding you could catch me over an expresso, I enjoy books of Hulbert Footner, I also love Geopolitics, and an unbendable love for the Airbus brand esp the A380 & A350-1000LR. About my love of abstract ideas and paintings and a lover of digital photography.
+* ⚡  When not coding you could catch me over an expresso, I enjoy books of Hulbert Footner, I love Geopolitics, plus an unbendable love for the Airbus brand esp the A380 & A350-1000LR. About my love of abstract ideas and paintings and a lover of digital photography.
 
 ### Skills
 

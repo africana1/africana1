@@ -10,7 +10,7 @@ I am a results-driven backend developer with a passion for crafting robust and s
 * 🖥️  See my portfolio at [pro-africana](http://africana.netlify.app)
 * ✉️  You can contact me at [z.anthony@yahoo.com](mailto:z.anthony@yahoo.com)
 * 🚀  I'm currently working on [Prolean Cooperative Software](http://coop-mgmt-12639b2.netlify.app/)
-* 🧠  I'm learning NestJS, Data Structures, Distributed Systems, Data Pipeline & Analysis
+* 🧠  I'm learning NestJS, Data Structures, Distributed Systems, Data Pipelines & Analysis
 * 🤝  I'm open to collaborating on Systems Design, Distributed Systems & Microservices
 * ⚡  When not coding you could catch me over an expresso, I enjoy books of Hulbert Footner, I also love Geopolitics, and an unbendable love for the Airbus brand esp the A380 & A350-1000LR. About my love of abstract ideas and paintings and a lover of digital photography.
 

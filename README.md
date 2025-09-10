@@ -9,7 +9,7 @@ I am a results-driven backend developer with a passion for crafting robust and s
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [adebambo.tunde@miirosoftware.com](adebambo.tunde@miirosoftware.com)
 * 🚀  I'm currently working on [PharmTracker Inventory Management System](http://pharmtracker.online)
-* 🧠  I'm learning Distributed Systems, Data Pipelines & Machine Learning
+* 🧠  I'm learning Distributed Systems, Machine Learning & Data Pipelines
 * 🤝  I'm open to collaborating on Systems Design, Distributed Systems & Microservices
 * ⚡  When not coding you could catch me over an expresso, I enjoy books of Hulbert Footner, I love Geopolitics, plus an unbendable love for the Airbus brand esp the A380 & A350-1000LR. About my love of abstract ideas and paintings and a lover of digital photography.
 

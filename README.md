@@ -7,7 +7,6 @@ Backend Developer
 I am a results-driven backend developer with a passion for crafting robust and scalable solutions that power the digital world. I specialize in designing and implementing efficient server-side architectures, developing RESTful APIs, and optimizing database performance. My experience & expertise enables me to tackle complex challenges and deliver high-quality software solutions. Constantly seeking opportunities for learning and growth, I stay updated on emerging technologies and industry best practices to ensure that I am always at the forefront of backend development. With a meticulous attention to detail and a commitment to excellence, I am dedicated to driving innovation and exceeding expectations in every project I undertake.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [pro-africana](http://africana.netlify.app)
 * ✉️  You can contact me at [adebambo.tunde@miirosoftware.com](adebambo.tunde@miirosoftware.com)
 * 🚀  I'm currently working on [PharmTracker Inventory Management System](http://pharmtracker.online)
 * 🧠  I'm learning Distributed Systems, Data Pipelines & Machine Learning
